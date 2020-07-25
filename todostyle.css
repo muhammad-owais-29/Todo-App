@@ -1,0 +1,88 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    
+        background-image: url("todoapp.png");
+        
+       
+}
+
+#div-f{
+ border:2px sloid gray;
+ height:80px;
+ width:100%;
+
+}
+
+
+#main-heading{
+    background:black;
+    color:whitesmoke;
+    padding:4px;
+    text-align: center;
+    
+}
+
+#input-s{
+    margin:auto;
+    width:50%;
+    padding:10px;
+}
+
+#todo-item{
+    width:80%;
+    height:35px;
+    margin-left:45px;
+    text-align:center;
+    color:grey;
+}
+.btn{
+    height:35px;
+    width:23%;
+    background:#9e202a;
+    color:white;
+    font-weight: bold;
+}
+#button-d{
+    background:#2177d4;
+}
+
+.btn1{
+    height:34px;
+    width:21%;
+    background:#2177d4;
+    color:white;
+    font-weight: bold;
+    margin-left:55px;
+
+}
+#btn2{
+    height:34px;
+    width:21%;
+    background:#9e202a;
+    color:white;
+    font-weight: bold;
+}
+
+
+
+#button-s{
+text-align:center;
+margin-left:33%;
+width:17%;
+
+}
+
+#list li{
+margin-left:14px;;
+
+}
+
+#main-d{
+    margin:auto;
+    width: 55%;
+    
+    padding: 10px;
+}
